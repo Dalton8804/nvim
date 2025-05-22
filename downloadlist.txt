@@ -1,0 +1,9 @@
+iterm2
+oh-my-zsh
+nvim
+atuin
+note script
+croc
+sdkman
+containerd/docker/colima
+minikube/kubectl
