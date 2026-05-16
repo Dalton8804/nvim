@@ -1,4 +1,5 @@
 {
+  "catppuccin": { "branch": "main", "commit": "426dbebe06b5c69fd846ceb17b42e12f890aedf1" },
   "cmp-buffer": { "branch": "main", "commit": "3022dbc9166796b644a841a02de8dd1cc1d311fa" },
   "cmp-cmdline": { "branch": "main", "commit": "d250c63aa13ead745e3a40f61fdd3470efde3923" },
   "cmp-nvim-lsp": { "branch": "main", "commit": "99290b3ec1322070bcfb9e846450a46f6efa50f0" },
@@ -14,6 +15,7 @@
   "nvim-java": { "branch": "main", "commit": "602a5f7fa92f9c1d425a2159133ff9de86842f0a" },
   "nvim-lspconfig": { "branch": "master", "commit": "7c8cb61b21727a473663054edec4b83633d9e442" },
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
+  "ripgrep": { "branch": "master", "commit": "4519153e5e461527f4bca45b042fff45c4ec6fb9" },
   "spring-boot.nvim": { "branch": "main", "commit": "218c0c26c14d99feca778e4d13f5ec3e8b1b60f0" },
   "telescope-fzf-native.nvim": { "branch": "main", "commit": "6fea601bd2b694c6f2ae08a6c6fab14930c60e2c" },
   "telescope.nvim": { "branch": "master", "commit": "3333a52ff548ba0a68af6d8da1e54f9cd96e9179" }
